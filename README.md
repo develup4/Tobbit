@@ -9,22 +9,13 @@
 - 서울어코드 소프트웨어 경진대회 최우수상🎉
 
 ## 설치방법
-### V1
 윈도우즈 환경에서 `/v1_cpp_winapi/target/tobbit.exe`를 실행하십시오.
 
-### V2
-TBD
-
 ## 기술스택
-### V1
 - CPP
 - WinAPI
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/8960704/223720788-873337c6-ac89-48b2-a369-70516799b45e.png">
-
-### V2
-- Rust
-- Bevy engine
 
 ## License
 MIT license
